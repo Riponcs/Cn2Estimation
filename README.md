@@ -27,6 +27,8 @@ Overall, the Physics-Based Deep Learning model is more accurate than the Naive D
 <figcaption align = "center"><b>Fig 3. Performance of Physics based Deep Learning. </b></figcaption>
 </figure>
 <br>
+<br>
+<br>
 
 The code for the model is available as a Jupyter notebook on the Github at this  [link](https://github.com/Riponcs/Cn2Estimation/blob/main/Turbulence%20Strength%20Estimation%20from%20Video.ipynb).
 
