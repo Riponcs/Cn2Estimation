@@ -11,18 +11,18 @@ We have used two datasets to train/test the model(the July dataset and October D
 
 The naive Deep learning model tends to overfit the data and is suited for single-point consistent measurement. 
 <figure>
-<img src="img/NaiveCNN.jpg" alt="Naive CNN" style="width:100%">
+<img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img/NaiveCNN.jpg?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Naive Deep Learning Model</b></figcaption>
 </figure>
 
 However, the Physics-Based Deep Learning model can generalize well over multiple datasets. 
 <figure>
-<img src="img/PhysicsBasedCNN.jpg" alt="Naive CNN" style="width:100%">
+<img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img/PhysicsBasedCNN.jpg?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Physics based Deep Learning. </b></figcaption>
 </figure>
 
 Overall, the Physics-Based Deep Learning model is more accurate than the Naive Deep Learning Model as well as conventional image gradient-based methods.
 <figure>
-<img src="img/PhysicsBasedCNN-Result.png" alt="Naive CNN" style="width:100%">
+<img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img//PhysicsBasedCNN-Result.png?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Performance of Physics based Deep Learning. </b></figcaption>
 </figure>
