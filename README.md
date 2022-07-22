@@ -14,19 +14,19 @@ The naive Deep learning model tends to overfit the data and is suited for single
 <img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img/NaiveCNN.jpg?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Fig 1. Naive Deep Learning Model</b></figcaption>
 </figure>  
-
+ <br> <br>
 However, the Physics-Based Deep Learning model can generalize well over multiple datasets.
 <figure>
 <img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img/PhysicsBasedCNN.jpg?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Fig 2. Physics based Deep Learning. </b></figcaption>
 </figure>
-
+ <br> <br>
 Overall, the Physics-Based Deep Learning model is more accurate than the Naive Deep Learning Model as well as conventional image gradient-based methods.
 <figure>
 <img src="https://github.com/Riponcs/Cn2Estimation/blob/main/Img//PhysicsBasedCNN-Result.png?raw=true" alt="Naive CNN" style="width:100%">
 <figcaption align = "center"><b>Fig 3. Performance of Physics based Deep Learning. </b></figcaption>
 </figure>
 
-
+ <br>
 The code for the model is available on the [Github](https://github.com/Riponcs/Cn2Estimation/blob/main/Turbulence%20Strength%20Estimation%20from%20Video.ipynb)<br>
 The Paper link will be updated upon publication of the paper.
