@@ -1,6 +1,7 @@
 # Cn2 Estimation
 ## Turbulence Strenght Estimation from Video/Image Sequence
 
+<a href="https://colab.research.google.com/github/Riponcs/Cn2Estimation/blob/main/Turbulence_Strength_Estimation_from_Video.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 We have used two datasets to train/test the model(the July dataset and October Dataset). Each dataset contains around 30k images. All those images were taken with the Nikon P100 DSLR camera at 60fps at a distance of 750m~1500m from the camera. We used a scintillometer to measure the turbulence strength.
 
